@@ -1,0 +1,8 @@
+c:\users\aviladelri\documents\visual studio 2013\Projects\iOS Vzla\iOS Vzla\bin\x86\Debug\iOS Vzla.exe.config
+c:\users\aviladelri\documents\visual studio 2013\Projects\iOS Vzla\iOS Vzla\bin\x86\Debug\iOS Vzla.exe
+c:\users\aviladelri\documents\visual studio 2013\Projects\iOS Vzla\iOS Vzla\bin\x86\Debug\iOS Vzla.pdb
+c:\users\aviladelri\documents\visual studio 2013\Projects\iOS Vzla\iOS Vzla\obj\x86\Debug\iOS_Vzla.Form1.resources
+c:\users\aviladelri\documents\visual studio 2013\Projects\iOS Vzla\iOS Vzla\obj\x86\Debug\iOS_Vzla.Properties.Resources.resources
+c:\users\aviladelri\documents\visual studio 2013\Projects\iOS Vzla\iOS Vzla\obj\x86\Debug\iOS Vzla.csproj.GenerateResource.Cache
+c:\users\aviladelri\documents\visual studio 2013\Projects\iOS Vzla\iOS Vzla\obj\x86\Debug\iOS Vzla.exe
+c:\users\aviladelri\documents\visual studio 2013\Projects\iOS Vzla\iOS Vzla\obj\x86\Debug\iOS Vzla.pdb
